@@ -1,0 +1,34 @@
+body{
+	margin-top: 50px;
+}
+.campo{
+
+	width: 100%;
+	height: 400px;
+	background: skyblue;
+	margin: 0 auto;
+	float: left;
+	background-image: linear-gradient( to top, white ,blue 60% );
+	border-bottom-color:green;
+	border-bottom-style:solid ;
+	 border-bottom-width: 25px ;
+	
+}
+.nuvem{
+	float: all;
+}
+.sonic{
+	width: 100px;
+	height: 100px;
+	margin-top: 320px;
+	float: right;
+	transition: all ease 2s;
+}
+.money{
+	margin-top: 376px;
+	float: left;
+}
+
+.sonic:hover{
+	width: 85%;
+	
